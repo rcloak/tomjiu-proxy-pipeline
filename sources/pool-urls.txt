@@ -120,3 +120,4 @@ socks5|https://spys.me/socks.txt
 # ========== Optional mega (wiki raw ~10MB+; enable if you raise MAX_BODY) ==========
 # http|https://raw.githubusercontent.com/wiki/gfpcom/free-proxy-list/lists/http.txt
 # socks5|https://raw.githubusercontent.com/wiki/gfpcom/free-proxy-list/lists/socks5.txt
+auto|https://rcloak.com/api/proxies/raw?protocol=all
